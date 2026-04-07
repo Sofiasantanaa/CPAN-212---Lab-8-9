@@ -21,12 +21,12 @@ This is a full-stack insurance management platform built with modern web technol
 - Express
 # Database
 - MongoDB
-- 
+  
 ## Project Structure
 /backend
 /frontend
 
-## nstallation & Setup
+## Installation & Setup
 1. Clone the repository
 git clonehttps://github.com/Sofiasantanaa/CPAN-212---Lab-8-9.git
 cd YOUR-REPO
