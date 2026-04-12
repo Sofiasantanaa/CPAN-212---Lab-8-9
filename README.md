@@ -64,17 +64,6 @@ This will create initial roles such as:
 - AGENT
 - UNDERWRITER
 - ADJUSTER
-  
-# backend Setup
-1. Place your PFX file in:
-
-cert/server.pfx
-
-2. Configure .env
-
-3. Install dependencies:
-
-npm install
 
 # Frontend Setup
 
