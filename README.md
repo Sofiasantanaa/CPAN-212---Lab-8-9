@@ -69,6 +69,7 @@ This will create initial roles such as:
 1. Place your PFX file in:
 
 cert/server.pfx
+
 2. Configure .env
 
 3. Install dependencies:
