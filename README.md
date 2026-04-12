@@ -65,12 +65,15 @@ This will create initial roles such as:
 - UNDERWRITER
 - ADJUSTER
   
-# Run backend with HTTPS 
-npm run dev
+# backend Setup
+1. Place your PFX file in:
 
-Server will run at:
+cert/server.pfx
+2. Configure .env
 
-https://localhost:PORT
+3. Install dependencies:
+
+npm install
 
 # Frontend Setup
 
@@ -78,7 +81,7 @@ https://localhost:PORT
 cd frontend
 # Install dependencies 
 npm install
-#Run frontend 
+# Run frontend 
 npm run dev
 Frontend will run at:
 
